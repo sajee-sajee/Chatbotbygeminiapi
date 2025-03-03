@@ -4,7 +4,7 @@ import os
 from functools import wraps
 
 
-api_key = "AIzaSyCU8rZOHLLLFLuRIaFJTO3bNWerFAYopJE"  # Replace with your actual key
+api_key = "AIzaSyCU8rZOHLLLFLuRIaFJTO3bNWerFAYopJE"  #  api key
 genai.configure(api_key=api_key)
 
 
