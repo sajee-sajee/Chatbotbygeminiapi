@@ -27,13 +27,13 @@ Before you begin, ensure you have the following installed:
    Create a .env file in the root directory.
    Add your Gemini API key: GEMINI_API_KEY=your-api-key-here
 
-##Usage
+## Usage
 1. **Run the chatbot:**
 
       python app.py
     The chatbot will start on http://localhost:5000 (or your configured port).
 
-##Project Structure
+## Project Structure
   ```bash
 gemini-chatbot/
 ├── app.py             
