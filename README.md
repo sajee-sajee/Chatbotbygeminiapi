@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/gemini-chatbot.git
+   git clone https://github.com/sajee-sajee/gemini-chatbot.git
    cd gemini-chatbot
 2. **Install dependencies:**
    ```bash
